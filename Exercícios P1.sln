@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial de um número", "Exercícios P1\Fatorial de um número.csproj", "{A9217CF8-9B1E-4231-BD68-566436AAF099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma até chegar no número", "Soma até chegar no número\Soma até chegar no número.csproj", "{EAAA15E8-C30F-4517-97B0-CFF587E9443B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9217CF8-9B1E-4231-BD68-566436AAF099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9217CF8-9B1E-4231-BD68-566436AAF099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9217CF8-9B1E-4231-BD68-566436AAF099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9217CF8-9B1E-4231-BD68-566436AAF099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAA15E8-C30F-4517-97B0-CFF587E9443B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAA15E8-C30F-4517-97B0-CFF587E9443B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAA15E8-C30F-4517-97B0-CFF587E9443B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAA15E8-C30F-4517-97B0-CFF587E9443B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BB4E75-E262-484D-99C0-2D77AB947C60}
+	EndGlobalSection
+EndGlobal

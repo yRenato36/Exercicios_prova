@@ -1,0 +1,8 @@
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\bin\Debug\Exercícios P1.exe.config
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\bin\Debug\Exercícios P1.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\bin\Debug\Exercícios P1.pdb
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\obj\Debug\Exercícios P1.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\obj\Debug\Exercícios P1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\obj\Debug\Exercícios P1.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\obj\Debug\Exercícios P1.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Exercícios P1\obj\Debug\Exercícios P1.pdb

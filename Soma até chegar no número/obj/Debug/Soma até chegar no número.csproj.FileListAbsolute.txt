@@ -1,0 +1,8 @@
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\bin\Debug\Soma até chegar no número.exe.config
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\bin\Debug\Soma até chegar no número.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\bin\Debug\Soma até chegar no número.pdb
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\obj\Debug\Soma até chegar no número.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\obj\Debug\Soma até chegar no número.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\obj\Debug\Soma até chegar no número.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\obj\Debug\Soma até chegar no número.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Alguns exercícios da prova\Exercícios P1\Soma até chegar no número\obj\Debug\Soma até chegar no número.pdb
